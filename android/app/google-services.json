@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248215938635",
+    "project_id": "usersigninsignup-781be",
+    "storage_bucket": "usersigninsignup-781be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248215938635:android:c0f38155ef52a2d2c9cfce",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwx2hib3zczCeCCwjFv2yXyjeMPQONzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
